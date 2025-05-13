@@ -2,15 +2,15 @@
   "name": "tamplete-electron-app",
   "version": "1.0.0",
   "description": "template base pra criar aplicações desktop electron.js",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "dev": "electronmon ."
   },
   "keywords": [],
   "author": "Paravani",
   "license": "ISC",
   "devDependencies": {
-    "electromon": "^1.0.10",
     "electron": "^36.2.0",
     "electronmon": "^2.0.3"
   }

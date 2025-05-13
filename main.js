@@ -7,6 +7,7 @@ function createWindow(){
         height: 600,
     })
 
+    window.loadFile("src/page/index.html")
 
 }
 
