@@ -1,4 +1,4 @@
-const { app, BrowserWindow } = require('electron')
+const { app, BrowserWindow } = require("electron");
 
 function createWindow(){
 
@@ -7,7 +7,7 @@ function createWindow(){
         height: 600,
     })
 
-    window.loadFile("src/page/index.html")
+    window.loadFile('src/pages/index.html')
 
 }
 
