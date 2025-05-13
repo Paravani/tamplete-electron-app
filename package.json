@@ -10,6 +10,8 @@
   "author": "Paravani",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^36.2.0"
+    "electromon": "^1.0.10",
+    "electron": "^36.2.0",
+    "electronmon": "^2.0.3"
   }
 }
